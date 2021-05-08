@@ -1,0 +1,15 @@
+{
+	"Token": "ODQwNDYzMzM4ODI3OTM5ODQx.YJYkew.JCR4A90kigIZzRWidbxWNxwtn-I",
+	"Prefix": "!",
+
+	"Channel-Names": ["NUKED LOL", "Wizzed by D4rk M4773r"], 
+	"Server-Names": ["D4rk M4773r ran you", "D4rk M4773r owns you"],
+	"Role-Names": ["HACKED", "D4rk M4773r owns you"],
+	"Reason": ["PEOPLE SAID THINGS TO MY FRIEND"],
+
+	"Spam": false,
+
+	"Webhook-Names": ["D4rk M4773r"],
+	"Spam-Messages": ["@everyone hahahah get freaked"],
+	"Spam-Amount": 10000
+} 
